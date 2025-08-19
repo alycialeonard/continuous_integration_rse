@@ -20,9 +20,8 @@ Example text.
 
 1. Blah blah ``code`` blah
 2. More ``code``, hooray
-3. Somé UTF-8°
 
-.. csv-table:: Things that are Awesome (on a scale of 1-11)
+.. csv-table:: Table title
 
 	Thing,Awesomeness
 	Tabular Data, 5
@@ -49,7 +48,7 @@ Press :kbd:`Ctrl+C` to quit
     <p><strong>RAW HTML!</strong></p><style> p {color:blue;} </style>
 
 
-Add your content using ``reStructuredText`` syntax. See the
+See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
 
