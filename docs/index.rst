@@ -22,7 +22,10 @@ Example text.
 2. More ``code``, hooray
 3. Somé UTF-8°
 
-The UTF-8 quote character in this table used to cause python to go boom. Now docutils just silently ignores it.
+..
+   This is a comment.
+   The UTF-8 quote character in the table below used to cause python to go boom.
+   Now docutils just silently ignores it.
 
 .. csv-table:: Things that are Awesome (on a scale of 1-11)
 	:quote: ”
