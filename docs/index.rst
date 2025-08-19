@@ -28,20 +28,12 @@ The UTF-8 quote character in this table used to cause python to go boom. Now doc
 	:quote: ”
 
 	Thing,Awesomeness
-	Icecream, 7
-	Honey Badgers, 10.5
-	Nickelback, -2
-	Iron Man, 10
-	Iron Man 2, 3
 	Tabular Data, 5
 	Made up ratings, 11
 
-.. code::
-
-	A block of code
-
 .. code:: python
 
+	# A block of code
 	python.code('hooray')
 
 ==============  ==========================================================
@@ -57,23 +49,11 @@ Source          https://github.com/tony/pullv
 	:target: https://scan.coverity.com/projects/621
 	:alt: Coverity Scan Build Status
 
-.. image:: https://scan.coverity.com/projects/621/badge.svg
-	:alt: Coverity Scan Build Status
-
-
-:123456789 123456789 123456789 123456789 123456789 1: Uh-oh! This name is too long!
-:123456789 123456789 123456789 123456789 1234567890: this is a long name,
-	but no problem!
-:123456789 12345: this is not so long, but long enough for the default!
-:123456789 1234: this should work even with the default :)
-
 someone@somewhere.org
 
 Press :kbd:`Ctrl+C` to quit
 
-
 .. raw:: html
-
     <p><strong>RAW HTML!</strong></p><style> p {color:blue;} </style>
 
 
