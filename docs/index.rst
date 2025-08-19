@@ -33,6 +33,7 @@ Example text.
 	# A block of code
 
 .. code:: python
+
 	python.code('hooray')
 
 .. image:: https://scan.coverity.com/projects/621/badge.svg
@@ -44,6 +45,7 @@ someone@somewhere.org
 Press :kbd:`Ctrl+C` to quit
 
 .. raw:: html
+
     <p><strong>RAW HTML!</strong></p><style> p {color:blue;} </style>
 
 
