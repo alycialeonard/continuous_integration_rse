@@ -23,7 +23,6 @@ Example text.
 3. Somé UTF-8°
 
 .. csv-table:: Things that are Awesome (on a scale of 1-11)
-	:quote: ”
 
 	Thing,Awesomeness
 	Tabular Data, 5
@@ -32,16 +31,9 @@ Example text.
 .. code:: python
 
 	# A block of code
+
+.. code:: python
 	python.code('hooray')
-
-==============  ==========================================================
-Travis          http://travis-ci.org/tony/pullv
-Docs            http://pullv.rtfd.org
-API             http://pullv.readthedocs.org/en/latest/api.html
-Issues          https://github.com/tony/pullv/issues
-Source          https://github.com/tony/pullv
-==============  ==========================================================
-
 
 .. image:: https://scan.coverity.com/projects/621/badge.svg
 	:target: https://scan.coverity.com/projects/621
